@@ -2,12 +2,11 @@
 title: Test Post 6
 seo_title: Test Post 6 - SEO Version
 summary: Another post in a series of test posts
-seo_desc: Another post in a series of test posts - SEO Version
 date: 2020-08-16T03:17:57.500Z
+preview: bet
+seo_desc: Another post in a series of test posts - SEO Version
 ---
 ### JeffSum Text Placeholder
-
-
 
 Text courtesy of: https://jeffsum.com/
 
@@ -17,13 +16,15 @@ God creates dinosaurs. God destroys dinosaurs. God creates Man. Man destroys God
 
 Eventually, you do plan to have dinosaurs on your dinosaur tour, right? Just my luck, no ice. Checkmate... Yes, Yes, without the oops! Is this my espresso machine? Wh-what is-h-how did you get my espresso machine? This thing comes fully loaded. AM/FM radio, reclining bucket seats, and... power windows.
 
-
-    Did he just throw my cat out of the window? 
-    Hey, you know how I'm, like, always trying to save the planet? 
-    Here's my chance. 
-    Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. 
-    God creates dinosaurs. 
-    God destroys dinosaurs. 
-    God creates Man. 
-    Man destroys God. 
-    Man creates Dinosaurs.
+```
+Did he just throw my cat out of the window? 
+Hey, you know how I'm, like, always trying to save the planet? 
+Here's my chance. 
+Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. 
+God creates dinosaurs. 
+God destroys dinosaurs. 
+God creates Man. 
+Man destroys God. 
+Man creates Dinosaurs.
+Hell yeah
+```
